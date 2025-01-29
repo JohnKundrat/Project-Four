@@ -1,10 +1,5 @@
 
 
-#DEVELOPER RESEARCH ON FUNCTIONS:
-
-    #The return statement isn't really a function. It tells a function which value should be returned, or in other words:
-    #If we have x = some_function() the return inside of some_function() determines what x will be.
-
 
 
 #Project 4
