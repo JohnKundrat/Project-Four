@@ -110,11 +110,11 @@ def GetSixLetterInput():
 
 print("WELCOME TO WORD PLAY!")
 print("=" * 16)
-print("You have five tries to get the word correct")
+print("You have five tries to guess the word correctly")
 print("The word is SIX CHARACTERS long, and you must enter a guess of this length")
 print("Guesses should comprise only of letters and NOT numbers")
 print("If a letter is in the correct place, it will be green")
-print("If a letter is in the word but NOT in the correct place, it will be yellow")
+print("If a letter is in the word, but NOT in the correct place, it will be yellow")
 print("If the letter is NOT in the word, it will be red")
 print("")
 print("")
